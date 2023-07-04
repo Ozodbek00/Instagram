@@ -2,7 +2,7 @@
 
 namespace Instagram.Api.Domain.Entities
 {
-    public class UserPost : BaseModel
+    public sealed class UserPost : BaseModel
     {
         public long UserId { get; set; }
         [ForeignKey(nameof(UserId))]
