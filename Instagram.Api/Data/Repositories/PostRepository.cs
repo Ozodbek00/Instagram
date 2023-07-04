@@ -8,9 +8,9 @@ namespace Instagram.Api.Data.Repositories
     {
         private readonly AppDbContext _context;
 
-        public PostRepository(AppDbContext context)
+        public PostRepository(AppDbContext _context)
         {
-            _context = context;
+            this._context = _context;
         }
 
         public Post Create(Post Post)
