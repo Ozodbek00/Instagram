@@ -2,7 +2,7 @@
 
 namespace Instagram.Api.Domain.Entities
 {
-    public class Message : BaseModel
+    public sealed class Message : BaseModel
     {
         public string Text { get; set; }
 

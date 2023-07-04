@@ -2,7 +2,7 @@
 
 namespace Instagram.Api.Domain.Entities
 {
-    public class User : BaseModel
+    public sealed class User : BaseModel
     {
         [MaxLength(32)]
         public string FirstName { get; set; }
