@@ -1,0 +1,204 @@
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.exe
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.deps.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.runtimeconfig.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.pdb
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.AssemblyReference.cache
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfoInputs.cache
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfo.cs
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CoreCompileInputs.cache
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.Instagram.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Instagram.Api.props
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Instagram.Api.props
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Instagram.Api.props
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\scopedcss\bundle\Instagram.Api.styles.css
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CopyComplete
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\refint\Instagram.Api.dll
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.pdb
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.genruntimeconfig.cache
+D:\Ozodbekkkkk\Codes\Instagram\Instagram.Api\obj\Debug\net6.0\ref\Instagram.Api.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.exe
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.deps.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.runtimeconfig.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.pdb
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.AssemblyReference.cache
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfoInputs.cache
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfo.cs
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CoreCompileInputs.cache
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.Instagram.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Instagram.Api.props
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Instagram.Api.props
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Instagram.Api.props
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\scopedcss\bundle\Instagram.Api.styles.css
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CopyComplete
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\refint\Instagram.Api.dll
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.pdb
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.genruntimeconfig.cache
+C:\Users\z0ir0\Downloads\Telegram Desktop\Instagram (2)\Instagram\Instagram.Api\obj\Debug\net6.0\ref\Instagram.Api.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.exe
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.deps.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.runtimeconfig.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Instagram.Api.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.AssemblyReference.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfoInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.AssemblyInfo.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CoreCompileInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.Instagram.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Instagram.Api.props
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Instagram.Api.props
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Instagram.Api.props
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\scopedcss\bundle\Instagram.Api.styles.css
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.csproj.CopyComplete
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\refint\Instagram.Api.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\Instagram.Api.genruntimeconfig.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\Instagram\Instagram.Api\obj\Debug\net6.0\ref\Instagram.Api.dll
