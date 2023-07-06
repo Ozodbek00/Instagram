@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Instagram.Api.Controllers
 {
     [ApiController, Route("api/[controller]")]
-    public class UsersController : ControllerBase
+    public sealed class UsersController : ControllerBase
     {
         private readonly IUserService _userService;
 
