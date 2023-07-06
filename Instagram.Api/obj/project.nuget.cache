@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k60yU62GJ2xnEC9c2yYE0ezmx0jdY031lQbV4G0tidHBH0Sk7UD3R1VF+YTp7WMXeOTLCEzLmKhXF7fxCvefQg==",
+  "dgSpecHash": "XLIcCB5H+gkQWGQ19udQy7RavuOKAJMmoH0KjwZAFaIdEj9s4irTzcm26hWLqG9Um5Dv80ThkDunblm3b43H3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mansu\\Source\\Repos\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+  "projectFilePath": "C:\\Users\\mansu\\Source\\Repos\\Insta\\Instagram.Api\\Instagram.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mansu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mansu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

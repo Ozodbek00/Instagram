@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\Insta\\Instagram.Api\\Instagram.Api.csproj",
       "projectName": "Instagram.Api",
-      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Insta\\Instagram.Api\\Instagram.Api.csproj",
       "packagesPath": "C:\\Users\\mansu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\Instagram\\Instagram.Api\\obj\\",
+      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\Insta\\Instagram.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mansu\\AppData\\Roaming\\NuGet\\NuGet.Config",
