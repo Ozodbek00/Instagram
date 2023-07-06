@@ -9,6 +9,7 @@ namespace Instagram.Api.Domain.Entities
         public string Description { get; set; }
 
         public long UserId { get; set; }
+        // comment
         [ForeignKey(nameof(UserId))]
         public User User { get; set; }
     }
